@@ -33,10 +33,10 @@
 
 ### 2.	Setup trên Blynk
 
-#### **Bước 1**: Tại giao diện chính của Blynk, chọn “For Makers”
+#### **Bước 1**: Tại giao diện chính của Blynk, chọn `For Makers`
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/28bdf82e-1111-42fc-ae09-bf5a5547dba1)
 
-#### **Bước 2**: Thiết lập một template mới dùng để điều khiển dự án đèn Led tắt bật theo ý muốn, ấn chọn “New template”
+#### **Bước 2**: Thiết lập một template mới dùng để điều khiển dự án đèn Led tắt bật theo ý muốn, ấn chọn `New template`
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/793762ee-da51-447b-8f99-b2475433616a)
 
 <img align="right" height="300" width="460" src="https://github.com/ainguyn/blynkgatetutorial/assets/167832348/f03f84b7-0b3a-42ca-922a-3c21b1469395">          
@@ -47,12 +47,7 @@
 * Connection Type: Wifi.
 * Description: Phần mô tả chi tiết thêm cho template.
 
-\
-\
-\
-\
-\
-\
+----------------------------------------------------------
 
 #### Bước 3: Sau khi đã tạo một template mới, cần thiết lập các Datastreams (các chân Virtual Pin) 
  ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/f3e1b0c3-c97b-4dba-8b21-193193ffa2bf)
@@ -68,20 +63,21 @@ Riêng chân P3 sẽ khai báo giống ảnh
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/7b6f0d7c-ead9-4512-99f0-240da37bdc12)
 
 
-#### **Bước 4**: Sau khi đã tạo được các Datastreams, chúng ta sẽ kéo thả nó vào “Web Dashboard”, đây sẽ là nơi dùng để tùy chỉnh giao diện điều khiển các Virtual Pin Datastreams đã setup ở bước trước
+#### **Bước 4**: Sau khi đã tạo được các Datastreams, chúng ta sẽ kéo thả nó vào `Web Dashboard`, đây sẽ là nơi dùng để tùy chỉnh giao diện điều khiển các Virtual Pin Datastreams đã setup ở bước trước
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/dd740114-28c4-461a-b386-6277a3740a8c)
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/5b238417-17f9-4fb4-9011-4284bb671b40)
 
 <img align="right" src="https://github.com/ainguyn/blynkgatetutorial/assets/167832348/bb6e79bd-177d-4e1f-bd3a-0f67fc3cc555">
-+ Để bật tắt thiết bị, chúng ta chọn hộp lệnh “Switch” trong nhóm lệnh Control rồi kéo thả vào giao diện điều khiển hoặc click chuột trái 2 lần vào hộp lệnh.
-+ Di chuyển con chuột tới hộp lệnh đã đặt trong phần giao diện và ấn vào biểu tượng bánh răng, khi đó sẽ hiện lên bảng “Switch Settings” dùng để thiết lập nút lệnh này với các Datastreams Virtual Pin đã tạo ở bước trước.
+
++ Để bật tắt thiết bị, chúng ta chọn hộp lệnh `Switch` trong nhóm lệnh Control rồi kéo thả vào giao diện điều khiển hoặc click chuột trái 2 lần vào hộp lệnh.
++ Di chuyển con chuột tới hộp lệnh đã đặt trong phần giao diện và ấn vào biểu tượng bánh răng, khi đó sẽ hiện lên bảng `Switch Settings` dùng để thiết lập nút lệnh này với các Datastreams Virtual Pin đã tạo ở bước trước.
 
 
 + Tittle: Đặt tên tùy ý cho nút lệnh
 + Datastream: Chọn Datastream muốn điều khiển và ấn save
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/f86f2600-f099-41dd-b9c7-a8611a6b7fb9)
 
-Bước 7: Quay về thẻ Home và nhấn “Add first device” để đặt tên cho thiết bị điều khiển và hoàn tất thiết lập.
+Bước 7: Quay về thẻ Home và nhấn `Add first device` để đặt tên cho thiết bị điều khiển và hoàn tất thiết lập.
 
  ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/ca90f2de-159a-433e-b781-7003bdaa3542)
 
@@ -117,7 +113,7 @@ IOS/Android: Truy cập “App Store” /” Google Play” và tải app “Bly
    + WiFi (2.4G) SSID:
    + Password:
    + Auth token: Paste `Blynk_Auth_Token` đã copy trước đó vào
-- Sau khi đã khai báo như ảnh thì ấn 'Apply', máy tính sẽ kết nối với Blynk – gate (Để ý đèn xanh trên Blynk – gate chớp nhanh vài giây và sáng  sau kết nối nghĩa là kết nối thành công)
+- Sau khi đã khai báo như ảnh thì ấn `Apply`, máy tính sẽ kết nối với Blynk – gate (Để ý đèn xanh trên Blynk – gate chớp nhanh vài giây và sáng  sau kết nối nghĩa là kết nối thành công)
 - Sau khi kết nối thành công, Blynk – gate sẽ tự động ngắt wifi trên máy tính. Vào lại wifi khác và truy cập Blynk web để tiến hành điều khiển
 
    

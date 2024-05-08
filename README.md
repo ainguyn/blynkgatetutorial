@@ -22,7 +22,7 @@
 
 #### **Bước 1**: PC/ Laptop: Truy cập link Blynk: <https://blynk.io/> 
 
-#### **Bước 2**: Bấm vào nút 'LOGIN'
+#### **Bước 2**: Bấm vào nút `LOGIN`
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/c41eea17-b07d-42d1-b303-017ccd42c7b3)
 
 #### **Bước 3**: Chọn Create new acccount 
@@ -82,7 +82,7 @@ Riêng chân P3 sẽ khai báo giống ảnh
 
 + Tittle: Đặt tên tùy ý cho nút lệnh
 + Datastream: Chọn Datastream muốn điều khiển và ấn save
-![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/f86f2600-f099-41dd-b9c7-a8611a6b7fb9)
+![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/b93b8e11-fe84-48b4-a71c-acd05cf1fcfa)
 
 Bước 7: Quay về thẻ Home và nhấn `Add first device` để đặt tên cho thiết bị điều khiển và hoàn tất thiết lập.
 
@@ -117,10 +117,10 @@ IOS/Android: Truy cập “App Store” /” Google Play” và tải app “Bly
 -	 Ấn giữ nút `Set` trên Blynk – gate khoảng 10s cho tới khi thấy đèn xanh trên Blynk – gate chớp nhanh liên tục để reset toàn bộ dữ liệu.
 - Truy cập vào wifi “Blynk gate” trên máy tính và vào địa chỉ IP: `192.168.4.1`
   ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/4d7d88fd-636b-4bd1-8f44-67c43f5ebb6c)
-   + WiFi (2.4G) SSID:
-   + Password:
+   + WiFi (2.4G) SSID: Nhập wifi được phát từ thiết bị khác vào
+   + Password: Mật khẩu của wifi đó
    + Auth token: Paste `Blynk_Auth_Token` đã copy trước đó vào
-- Sau khi đã khai báo như ảnh thì ấn `Apply`, máy tính sẽ kết nối với Blynk – gate (Để ý đèn xanh trên Blynk – gate chớp nhanh vài giây và sáng  sau kết nối nghĩa là kết nối thành công)
+- Sau khi đã khai báo như ảnh thì ấn `Apply`, máy tính sẽ kết nối với Blynk – gate (Để ý đèn xanh trên Blynk – gate chớp nhanh vài giây và sáng dịu dịu nghĩa là kết nối thành công)
 - Sau khi kết nối thành công, Blynk – gate sẽ tự động ngắt wifi trên máy tính. Vào lại wifi khác và truy cập Blynk web để tiến hành điều khiển
 
    

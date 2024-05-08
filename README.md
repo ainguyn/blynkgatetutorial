@@ -30,6 +30,13 @@
 
 ## III.	  Hướng dẫn sử dụng Blynk – gate để bật tắt đèn Led
 ### 1. Setup phần cứng Blynk-gate
+Để thiết lập phần cứng Blynk-gate, cần chuẩn bị:
++ x1 Blynk-gate
++ x4 đèn LED
++ Dây cắm 
++ x4 điện trở
++ x1 Breadboard
++ x1 Nguồn
 
 ### 2.	Setup trên Blynk
 
@@ -49,13 +56,13 @@
 
 ----------------------------------------------------------
 
-#### Bước 3: Sau khi đã tạo một template mới, cần thiết lập các Datastreams (các chân Virtual Pin) 
+#### Bước 3: Sau khi đã tạo một template mới, cần thiết lập các `Datastreams` (các chân `Virtual Pin`) 
  ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/f3e1b0c3-c97b-4dba-8b21-193193ffa2bf)
 
-Chọn New Datastream -> Virtual Pin
+Chọn `New Datastream` -> `Virtual Pin`
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/90384950-513b-409e-b34a-538b2af2fc1a)
 
-Khai báo Datastrean Virtual Pin tương tự như ảnh cho chân P1 và làm tương tự với các chân kế tiếp (P2, P4)
+Khai báo `Datastrean Virtual Pin` tương tự như ảnh cho chân P1 và làm tương tự với các chân kế tiếp (P2, P4)
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/c0c53dd1-01d2-439c-b03c-30ff5d4e486f)
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/c980fcd9-be5f-4b02-acad-cd0e18fa8e33)
 
@@ -63,7 +70,7 @@ Riêng chân P3 sẽ khai báo giống ảnh
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/7b6f0d7c-ead9-4512-99f0-240da37bdc12)
 
 
-#### **Bước 4**: Sau khi đã tạo được các Datastreams, chúng ta sẽ kéo thả nó vào `Web Dashboard`, đây sẽ là nơi dùng để tùy chỉnh giao diện điều khiển các Virtual Pin Datastreams đã setup ở bước trước
+#### **Bước 4**: Sau khi đã tạo được các `Datastreams`, chúng ta sẽ kéo thả nó vào `Web Dashboard`, đây sẽ là nơi dùng để tùy chỉnh giao diện điều khiển các `Virtual Pin Datastreams` đã setup ở bước trước
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/dd740114-28c4-461a-b386-6277a3740a8c)
 ![image](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/5b238417-17f9-4fb4-9011-4284bb671b40)
 

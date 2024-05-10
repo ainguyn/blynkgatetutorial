@@ -36,13 +36,12 @@
 ### 1. Setup phần cứng Blynk-gate
 Để thiết lập phần cứng Blynk-gate, cần chuẩn bị:
 + 1 Blynk-gate
-+ 4 đèn LED
-+ Dây cắm 
-+ 4 Điện trở
-+ 1 Breadboard
-+ 1 Nguồn
++ 1 Relay
++ 1 bóng đèn
++ Dây cắm
++ Nguồn
   
-![Circuit blynkgate](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/42a9a3c3-7efc-41b5-83ed-a284b1fefb62)
+![circuit](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/3f0624f0-1fdb-412a-97b6-9a0d2e663b89)
 
 
 ### 2.	Setup trên Blynk

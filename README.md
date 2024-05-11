@@ -7,9 +7,10 @@
 * Bằng cách sử dụng phần cứng **Blynk Gate** người dùng không cần phải code mà chỉ cần thao tác tùy chỉnh cơ bàn là đã có thể tạo ra 1 thiết bị điều khiển từ xa thông qua intermet.
 
 ### 2. Sơ đồ mạch Blynk-gate
-![Mat_sau_Edu_I2C_Wifi_Blynk_1](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/bf145eee-4cc1-493b-afaa-0e62db25fe34) Mặt sau
-
-![Mat_truoc_Edu_I2C_Wifi_Blynk_1](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/81590411-1fa4-45de-abfa-8b3f5c5fbf4b) Mặt trước
+<img height="550" width="460" src="https://github.com/ainguyn/blynkgatetutorial/assets/167832348/bf145eee-4cc1-493b-afaa-0e62db25fe34"> 
+<img height="550" width="460" src="https://github.com/ainguyn/blynkgatetutorial/assets/167832348/81590411-1fa4-45de-abfa-8b3f5c5fbf4b"> 
+	
+ Mặt sau 	Mặt trước
 
 ### 3. Chức năng các chân trên mạch
 * 5V: Chân cấp nguồn dương 5V
@@ -40,8 +41,9 @@
 + 1 bóng đèn
 + Dây cắm
 + Nguồn
-  
-![circuit](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/3f0624f0-1fdb-412a-97b6-9a0d2e663b89)
+
+![circuit1](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/bc3397bb-9cdf-4cc4-b282-bc9373e870dd)
+
 
 
 ### 2.	Setup trên Blynk

@@ -42,7 +42,8 @@
 + Dây cắm
 + Nguồn
 
-![circuit1](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/bc3397bb-9cdf-4cc4-b282-bc9373e870dd)
+![circuit2](https://github.com/ainguyn/blynkgatetutorial/assets/167832348/441cdd24-27a1-4d2f-acfb-7b7ed452b4d0)
+
 
 
 
